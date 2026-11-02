@@ -1,0 +1,9 @@
+{
+    "name": "padangtv/karyawan",
+    "description": "Sistem informasi karyawan Padang TV.",
+    "license": "MIT",
+    "require": {
+        "setasign/fpdf": "^1.8",
+        "phpoffice/phpspreadsheet": "^4.1"
+    }
+}
